@@ -5,7 +5,9 @@
 	display: flex;
 	min-height: 100vh;
 	flex-direction: column;
- }
+	background-image: url("https://i.imgur.com/LOTuDpV.jpg");
+	}
+	
 
  header {
  	height: 100px;
@@ -16,15 +18,17 @@
  }
 
  main {
- 	flex: 1 0 auto;
+	 flex: 1 0 auto;
  }
 
  main h1 {
- 	font-weight: bold;
+	 font-weight: bold;
+	 background-color:	whitesmoke;
  }
 
   main h2 {
- 	font-weight: 300;
+	 font-weight: 300;
+	 background-color: 	whitesmoke;
  }
 
 #logo-icon {
@@ -44,6 +48,7 @@
 
 .mainpanel{
 	margin: 50px;
+	background-color: whitesmoke;
 }
 
  #mainpanel-content {
