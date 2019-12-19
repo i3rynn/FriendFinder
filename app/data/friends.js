@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Vale',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Kaiser',
+		photo: 'https://i.imgur.com/ESTfFep.jpg',
 		scores: [
 			'5',
 			'3',
@@ -18,7 +18,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Bertrand',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		photo: 'https://i.imgur.com/rGBKEsU.jpg',
 		scores: [
 			'2',
 			'4',
@@ -34,7 +34,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Wilhelm',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		photo: 'https://i.imgur.com/WyjMKaK.jpg',
 		scores: [
 			'5',
 			'1',
@@ -50,7 +50,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Rosetta',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		photo: 'https://i.imgur.com/NEst1R8.jpg',
 		scores: [
 			'1',
 			'5',
@@ -66,7 +66,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Ajikage',
-		photo: 'http://4.bp.blogspot.com/-HTvSYzA-pO4/UgQb4Zh_u0I/AAAAAAAAEuI/XwhtogT_1tA/s1600/3+cute2.jpg',
+		photo: 'https://i.imgur.com/vrlcOFt.jpg',
 		scores: [
 			'4',
 			'2',
@@ -82,7 +82,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Fubuki',
-		photo: 'http://img.mindbodygreen.com/image/upload/c_limit,w_738,f_auto/ftr/Miss-Piggy-large-tonya-312.jpg',
+		photo: 'https://i.imgur.com/yheC0xy.jpg',
 		scores: [
 			'3',
 			'3',
@@ -98,7 +98,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Hanzo',
-		photo: 'http://www.billboard.com/files/styles/article_main_image/public/media/beyonce-feb-2014-billboard-650.jpg',
+		photo: 'https://i.imgur.com/UCqoPKT.jpg',
 		scores: [
 			'3',
 			'2',
@@ -114,7 +114,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Daphne',
-		photo: 'https://i1.imgiz.com/data/videoshots/6829/6829475-6461.jpg',
+		photo: 'https://i.imgur.com/wqpbyJI.jpg',
 		scores: [
 			'2',
 			'4',
@@ -130,7 +130,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Fiona',
-		photo: 'http://i.dailymail.co.uk/i/pix/2015/09/02/08/2BE5406100000578-3218820-image-m-25_1441179775589.jpg',
+		photo: 'https://i.imgur.com/CRN523E.jpg',
 		scores: [
 			'1',
 			'1',
@@ -146,7 +146,7 @@ var friendsArray = [
 	},
 	{
 		name: 'Valencia',
-		photo: 'http://1rjm5qg4v8732kpmn44ya6bj-wpengine.netdna-ssl.com/wp-content/uploads/2012/11/elmo-6601.png',
+		photo: 'https://i.imgur.com/4Ufnt8N.jpg',
 		scores: [
 			'4',
 			'5',
