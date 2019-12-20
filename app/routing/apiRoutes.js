@@ -14,7 +14,7 @@ module.exports = function(app) {
 	});
 
 	// Add new friend entry
-	app.post('/api/friends', function(req, res) {
+	app.post('/data/friends', function(req, res) {
 		// Capture the user input object
 		var userInput = req.body;
 		// console.log('userInput = ' + JSON.stringify(userInput));
